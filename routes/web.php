@@ -52,3 +52,6 @@ Route::get('/qordovameeting', function () {
 Route::get('/youthcente', function () {
     return view('pages.youth-cente');
 });
+Route::get('/dashboard', function () {
+    return view('dashboard.dashboard');
+});
