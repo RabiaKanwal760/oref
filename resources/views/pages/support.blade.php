@@ -27,7 +27,7 @@
                         <div class="help-them-two-bg"
                             style="background-image: url(assets/images/support/562-x-668.jpg)"></div>
                         <div class="help-them-two__img">
-                            <img src="assets/images/support/Support-01.jpg" alt="">
+                            <img src="{{asset('assets/images/support/Support-01.jpg')}}" alt="">
                             <!--<a href="https://www.youtube.com/watch?v=i9E_Blai8vk"-->
                             <!--    class="help-them-two__video-btn video-popup"><i class="fa fa-play"></i></a>-->
                         </div>
@@ -60,7 +60,7 @@ padding: 10px 20px;"><i class="fas fa-arrow-circle-right"></i>Donate now</a>
                             <div class="help-them-two__donation-icon" style="    height: 110px;
 width: 150px;
 ">
-                                <img src="assets/images/support/heart.png" alt="" style="height:100%;width:100%;object-fit:contain">
+                                <img src="{{asset('assets/images/support/heart.png')}}" alt="" style="height:100%;width:100%;object-fit:contain">
                             </div>
                         </div>
                     </div>
@@ -136,7 +136,7 @@ width: 150px;
                         <div class="causes-one__single">
                             <div class="causes-one__img">
                                 <div class="causes-one__img-box">
-                                    <img src="assets/images/support/310-x-229-v01.jpg" alt="">
+                                    <img src="{{asset('assets/images/support/310-x-229-v01.jpg')}}" alt="">
                                     <a href="causes-details.html">
                                         <i class="fa fa-plus"></i>
                                     </a>
@@ -157,7 +157,7 @@ width: 150px;
                         <div class="causes-one__single">
                             <div class="causes-one__img">
                                 <div class="causes-one__img-box">
-                                    <img src="assets/images/support/educational-initiatives.jpg" alt="">
+                                    <img src="{{asset('assets/images/support/educational-initiatives.jpg')}}" alt="">
                                     <a href="causes-details.html">
                                         <i class="fa fa-plus"></i>
                                     </a>
@@ -178,7 +178,7 @@ width: 150px;
                         <div class="causes-one__single">
                             <div class="causes-one__img">
                                 <div class="causes-one__img-box">
-                                    <img src="assets/images/support/310-x-229-(sustainable-development).jpg" alt="">
+                                    <img src="{{asset('assets/images/support/310-x-229-(sustainable-development).jpg')}}" alt="">
                                     <a href="causes-details.html">
                                         <i class="fa fa-plus"></i>
                                     </a>
@@ -199,7 +199,7 @@ width: 150px;
                         <div class="causes-one__single">
                             <div class="causes-one__img">
                                 <div class="causes-one__img-box">
-                                    <img src="assets/images/support/310-x-229-(hope-for-poor-childern).jpg" alt="">
+                                    <img src="{{asset('assets/images/support/310-x-229-(hope-for-poor-childern).jpg')}}" alt="">
                                     <a href="causes-details.html">
                                         <i class="fa fa-plus"></i>
                                     </a>
@@ -220,7 +220,7 @@ width: 150px;
                         <div class="causes-one__single">
                             <div class="causes-one__img">
                                 <div class="causes-one__img-box">
-                                    <img src="assets/images/support/Rights-for-all.jpg" alt="">
+                                    <img src="{{asset('assets/images/support/Rights-for-all.jpg')}}" alt="">
                                     <a href="causes-details.html">
                                         <i class="fa fa-plus"></i>
                                     </a>

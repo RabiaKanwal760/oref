@@ -72,7 +72,7 @@
                     <div class="site-footer__bottom-inner">
                         <div class="site-footer__bottom-logo-social">
                             <div class="site-footer__bottom-logo">
-                                <a href="index.html"><img src="assets/images/resources/Logo-(footer)-white.png" class="h-100 w-100" alt=""></a>
+                                <a href="index.html"><img src="{{asset('assets/images/resources/Logo-(footer)-white.png')}}" class="h-100 w-100" alt=""></a>
                             </div>
                             <div class="site-footer__bottom-social">
                                 <a href="#"><i class="fab fa-twitter"></i></a>

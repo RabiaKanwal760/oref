@@ -22,7 +22,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="events-details__img">
-                        <img src="assets/images/eventDetails/event-details-header.png" alt="">
+                        <img src="{{asset('assets/images/eventDetails/event-details-header.png')}}" alt="">
                         <div class="event-details__date-box">
                             <p>20 <br> Jan</p>
                         </div>

@@ -1,7 +1,7 @@
 <header class="main-header clearfix">
     <div class="main-header__logo">
         <a href="index.html">
- <img class="log-img" src="assets/images/resources/Logo-footer.png" alt="" style="height:100;width:100%">
+ <img class="log-img" src="{{asset('assets/images/resources/Logo-footer.png')}}" alt="" style="height:100;width:100%">
         </a>
     </div>
     <div class="main-menu-wrapper">

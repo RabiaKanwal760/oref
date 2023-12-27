@@ -35,7 +35,7 @@
                     <a href="orient-hall.html">
                          <div class="events-one__single">
                         <div class="events-one__img">
-                            <img class="event-card-img" src="assets/images/events/Orient-01.jpg" alt="" style="width:100%">
+                            <img class="event-card-img" src="{{asset('assets/images/events/Orient-01.jpg')}}" alt="" style="width:100%">
                             <div class="events-one__date-box">
                                 <p>20$</p>
                             </div>
@@ -53,7 +53,7 @@
                     <a href="youth-center.html">
                          <div class="events-one__single">
                         <div class="events-one__img">
-                            <img class="event-card-img" src="assets/images/events/Youth-centre-hall-01.jpg" alt="" style="width:100%">
+                            <img class="event-card-img" src="{{asset('assets/images/events/Youth-centre-hall-01.jpg')}}" alt="" style="width:100%">
                             <div class="events-one__date-box">
                                     <p>20$</p>
                             </div>
@@ -70,7 +70,7 @@
                     <a href="gym.html">
                          <div class="events-one__single">
                         <div class="events-one__img">
-                            <img class="event-card-img" src="assets/images/events/GYM-01.jpg" alt="" style="width:100%">
+                            <img class="event-card-img" src="{{asset('assets/images/events/GYM-01.jpg')}}" alt="" style="width:100%">
                             <div class="events-one__date-box">
                                 <p>20$</p>
                             </div>
@@ -87,7 +87,7 @@
                     <a href="gazza-meeting-room.html">
                          <div class="events-one__single">
                         <div class="events-one__img">
-                            <img class="event-card-img" src="assets/images/events/GAZZA-MEETING1.jpg" alt="" style="width:100%">
+                            <img class="event-card-img" src="{{asset('assets/images/events/GAZZA-MEETING1.jpg')}}" alt="" style="width:100%">
                             <div class="events-one__date-box">
                                    <p>20$</p>
                             </div>
@@ -104,7 +104,7 @@
                     <a href="kashmir-meeting-room.html">
                          <div class="events-one__single">
                         <div class="events-one__img">
-                            <img class="event-card-img" src="assets/images/events/Kashmir-01.jpg" alt="" style="width:100%">
+                            <img class="event-card-img" src="{{asset('assets/images/events/Kashmir-01.jpg')}}" alt="" style="width:100%">
                             <div class="events-one__date-box">
                                <p>20$</p>
                             </div>
@@ -121,7 +121,7 @@
                     <a href="qordova-meeting-room.html">
                          <div class="events-one__single">
                         <div class="events-one__img">
-                            <img class="event-card-img" src="assets/images/events/Qordova-01.jpg" alt="" style="width:100%">
+                            <img class="event-card-img" src="{{asset('assets/images/events/Qordova-01.jpg')}}" alt="" style="width:100%">
                             <div class="events-one__date-box">
                                <p>20$</p>
                             </div>
@@ -161,7 +161,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD01.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD01.jpg')}}" alt="">
                         </div>
                     </div>
                 </div>
@@ -169,7 +169,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD02.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD02.jpg')}}" alt="">
                        
                         </div>
                     </div>
@@ -178,7 +178,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD03.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD03.jpg')}}" alt="">
                       
                         </div>
                     </div>
@@ -187,7 +187,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD04.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD04.jpg')}}" alt="">
                         </div>
                     </div>
                 </div>
@@ -195,7 +195,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD05.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD05.jpg')}}" alt="">
                  
                         </div>
                     </div>
@@ -204,7 +204,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD06.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD06.jpg')}}" alt="">
                   
                         </div>
                     </div>
@@ -213,7 +213,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD07.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD07.jpg')}}" alt="">
               
                         </div>
                     </div>
@@ -222,7 +222,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD08.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD08.jpg')}}" alt="">
                    
                         </div>
                     </div>
@@ -231,7 +231,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD09.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD09.jpg')}}" alt="">
                      
                         </div>
                     </div>

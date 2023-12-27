@@ -3,7 +3,7 @@
         <ul class="nav" id="main-menu">
             <li>
                 <div class="user-img-div">
-                    <img src="dashboard-assets/img/user.png" class="img-thumbnail" />
+                    <img src="{{asset('dashboard-assets/img/user.png')}}" class="img-thumbnail" />
 
                     <div class="inner-text">
                         Jhon Deo Alex

@@ -39,7 +39,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD01.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD01.jpg')}}" alt="">
                         </div>
                     </div>
                 </div>
@@ -47,7 +47,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD02.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD02.jpg')}}" alt="">
                        
                         </div>
                     </div>
@@ -56,7 +56,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD03.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD03.jpg')}}" alt="">
                       
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD04.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD04.jpg')}}" alt="">
                         </div>
                     </div>
                 </div>
@@ -73,7 +73,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD05.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD05.jpg')}}" alt="">
                  
                         </div>
                     </div>
@@ -82,7 +82,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD06.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD06.jpg')}}" alt="">
                   
                         </div>
                     </div>
@@ -91,7 +91,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD07.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD07.jpg')}}" alt="">
               
                         </div>
                     </div>
@@ -100,7 +100,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD08.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD08.jpg')}}" alt="">
                    
                         </div>
                     </div>
@@ -109,7 +109,7 @@
                    <!--Gallery page Single-->
                     <div class="gallery-page__single">
                         <div class="gallery-page__img-box">
-                            <img src="assets/images/events/BD09.jpg" alt="">
+                            <img src="{{asset('assets/images/events/BD09.jpg')}}" alt="">
                      
                         </div>
                     </div>

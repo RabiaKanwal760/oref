@@ -34,7 +34,7 @@
                                 <h2>Working for<br>Humanity's Sake</h2>
                                 <a href="contact.html" class="thm-btn"><i class="fas fa-arrow-circle-right"></i>Contact Us</a>
                                 <div class="main-slider__shape-1 zoom-fade">
-                                    <img src="assets/images/shapes/H01-1.png" alt="">
+                                    <img src="{{asset('assets/images/shapes/H01-1.png')}}" alt="">
                                 </div>
                             </div>
                         </div>
@@ -54,7 +54,7 @@
                                 <h2>Cause That<br>Empower</h2>
                                 <a href="contact.html" class="thm-btn"><i class="fas fa-arrow-circle-right"></i>Contact Us</a>
                                 <div class="main-slider__shape-1 zoom-fade">
-                                    <img src="assets/images/shapes/H02-1.png" alt="">
+                                    <img src="{{asset('assets/images/shapes/H02-1.png')}}" alt="">
                                 </div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                 <h2>Collaborating with <br>Heart</h2>
                                 <a href="contact.html" class="thm-btn"><i class="fas fa-arrow-circle-right"></i>Contact Us</a>
                                 <div class="main-slider__shape-1 zoom-fade">
-                                    <img src="assets/images/shapes/H03-1.png" alt="">
+                                    <img src="{{asset('assets/images/shapes/H03-1.png')}}" alt="">
                                 </div>
                             </div>
                         </div>
@@ -119,7 +119,7 @@
             <div class="col-xl-6 col-lg-6">
                 <div class="introduction__left">
                     <div class="introduction__img">
-                        <img src="assets/images/home/HOME-01.jpg" alt="">
+                        <img src="{{asset('assets/images/home/HOME-01.jpg')}}" alt="">
                     </div>
                     <div class="introduction__content">
                         <p class="introduction__text" style="text-align:center">Discover our structured systems that provide continuous support, ensuring each donation and nurturing Muslim communities in need.
@@ -232,7 +232,7 @@
             <div class="col-xl-6 col-lg-6">
                 <div class="we-inspire__right">
                     <div class="we-inspire__img">
-                        <img src="assets/images/home/Updated-01.jpg" alt="">
+                        <img src="{{asset('assets/images/home/Updated-01.jpg')}}" alt="">
                     </div>
                 </div>
             </div>
@@ -373,7 +373,7 @@
                     <!--Events One Single-->
                     <div class="events-one__single">
                         <div class="events-one__img">
-                            <img src="assets/images/home/247-x-336-v01.jpg" alt="" class="slider-img-filter">
+                            <img src="{{asset('assets/images/home/247-x-336-v01.jpg')}}" alt="" class="slider-img-filter">
                             <!--<div class="events-one__date-box">-->
                             <!--    <p>20 <br> Jan</p>-->
                             <!--</div>-->
@@ -386,7 +386,7 @@
                     <!--Events One Single-->
                     <div class="events-one__single">
                         <div class="events-one__img">
-                            <img src="assets/images/home/247-x-336-v02.jpg" alt="" class="slider-img-filter">
+                            <img src="{{asset('assets/images/home/247-x-336-v02.jpg')}}" alt="" class="slider-img-filter">
 
                             <!--<div class="events-one__date-box">-->
                             <!--    <p>20 <br> Jan</p>-->
@@ -402,7 +402,7 @@
                     <!--Events One Single-->
                     <div class="events-one__single">
                         <div class="events-one__img">
-                            <img src="assets/images/home/247-x-336-v03.jpg" alt="" class="slider-img-filter">
+                            <img src="{{asset('assets/images/home/247-x-336-v03.jpg')}}" alt="" class="slider-img-filter">
                             <!--<div class="events-one__date-box">-->
                             <!--    <p>20 <br> Jan</p>-->
                             <!--</div>-->
@@ -683,7 +683,7 @@ m70 0 c0 -5 -9 -10 -20 -10 -11 0 -20 5 -20 10 0 6 9 10 20 10 11 0 20 -4 20
                 <!--Four Icon Single-->
                 <div class="four-icon__single">
                     <div class="four-icon__img">
-                        <img src="assets/images/home/530-x-668-v01.jpg" alt="">
+                        <img src="{{asset('assets/images/home/530-x-668-v01.jpg')}}" alt="">
                         <div class="four-icon__content-box">
                             <h3 class="four-icon__title">Gym Area</h3>
                             <p class="four-icon__text">Work out, and support our community.
@@ -735,7 +735,7 @@ fill="#25aae2" stroke="none">
                 <!--Four Icon Single-->
                 <div class="four-icon__single">
                     <div class="four-icon__img">
-                        <img src="assets/images/home/530 x 668-v02.jpg" alt="">
+                        <img src="{{asset('assets/images/home/530 x 668-v02.jpg')}}" alt="">
                         <div class="four-icon__content-box">
                             <h3 class="four-icon__title">Sports Grounds</h3>
                             <p class="four-icon__text">Play, unite, and back our cause.</p>
@@ -786,7 +786,7 @@ fill="#25aae2" stroke="none">
                 <!--Four Icon Single-->
                 <div class="four-icon__single">
                     <div class="four-icon__img">
-                        <img src="assets/images/home/530-x-668-v03.jpg" alt="">
+                        <img src="{{asset('assets/images/home/530-x-668-v03.jpg')}}" alt="">
                         <div class="four-icon__content-box">
                             <h3 class="four-icon__title">Banquet Halls</h3>
                             <p class="four-icon__text">Celebrate with us, and support the community.</p>
@@ -842,7 +842,7 @@ m123 27 c0 -25 -4 -45 -10 -45 -5 0 -10 20 -10 45 0 25 5 45 10 45 6 0 10 -20
                 <!--Four Icon Single-->
                 <div class="four-icon__single">
                     <div class="four-icon__img">
-                        <img src="assets/images/resources/530-x-668.jpg" alt="">
+                        <img src="{{asset('assets/images/resources/530-x-668.jpg')}}" alt="">
                         <div class="four-icon__content-box">
                             <h3 class="four-icon__title">Meeting Rooms</h3>
                             <p class="four-icon__text">Gather, empower, and support our cause</p>
@@ -929,7 +929,7 @@ c4 111 22 105 22 -8z m-3 -162 c-2 -13 -4 -5 -4 17 -1 22 1 32 4 23 2 -10 2
 
         <div class="modal-header p-0 w-50">
             <span class="close">&times;</span>
-            <img src="assets/images/home/banner-min.jpg" class="w-100 h-100" style="object-fit:cover">
+            <img src="{{asset('assets/images/home/banner-min.jpg')}}" class="w-100 h-100" style="object-fit:cover">
             <!--<h3 class="modal-heading">Add a heading here</h3>-->
         </div>
         <div class="modal-body w-50 d-flex align-items-left flex-column justify-content-center p-3" style="text-align:center">
@@ -952,4 +952,31 @@ text-align:left;
         </div>
     </div>
 </div>
+@endsection
+@section('script')
+<script>
+    // Get the modal element
+    const modal = document.getElementById('myModal');
+
+    // Get the <span> element that closes the modal
+    const span = document.getElementsByClassName("close")[0];
+
+    // Function to open the modal on page load
+    window.onload = function() {
+        modal.style.display = "block";
+    }
+
+    // Function to close the modal
+    span.onclick = function() {
+        modal.style.display = "none";
+    }
+
+    // Close the modal when clicking outside of it
+    window.onclick = function(event) {
+        if (event.target === modal) {
+            modal.style.display = "none";
+        }
+    }
+</script>
+
 @endsection

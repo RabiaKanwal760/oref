@@ -22,7 +22,7 @@
     <!--donation form-->
     
     <section class="donation-container">
-        <img src="assets/images/support/header-img.jpg" class="bg-img">
+        <img src="{{asset('assets/images/support/header-img.jpg')}}" class="bg-img">
         <div class="card">
             <div class="col-md-6 col-sm-12 col-xs-12">
                 <h1 class="section-title__title" style="font-size:40px">Support Our Mission:</h1>

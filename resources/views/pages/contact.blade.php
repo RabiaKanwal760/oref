@@ -28,7 +28,7 @@ line-height: 53px;
                 <div class="col-xl-6 col-lg-6">
                     <div class="contact-page__left">
                         <div class="contact-page__img">
-                            <img src="assets/images/contact/contactus2.png" alt="">
+                            <img src="{{asset('assets/images/contact/contactus2.png')}}" alt="">
                         </div>
                         <p class="contact-page__text">Whether you have questions, suggestions, or if you're looking to book a hall for an event, 
                         we're here to help. Please don't hesitate to reach out to OREF by using the following methods.</p>
@@ -67,7 +67,7 @@ line-height: 53px;
                 </div>
                 <div class="col-xl-6 col-lg-6">
                     <div class="contact-page__form">
-                        <form action="assets/inc/sendemail.php" class="contact-page__main-form contact-form-validated">
+                        <form action="{{asset('assets/inc/sendemail.php')}}" class="contact-page__main-form contact-form-validated">
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="contact-page__input-box">
@@ -130,7 +130,7 @@ line-height: 53px;
         <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
         <div class="logo-box">
-            <a href="index.html" aria-label="logo image"><img src="assets/images/resources/orefw.png" width="155"
+            <a href="index.html" aria-label="logo image"><img src="{{asset('assets/images/resources/orefw.png')}}" width="155"
                     alt="" /></a>
         </div>
         <!-- /.logo-box -->

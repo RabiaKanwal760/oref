@@ -54,7 +54,7 @@
 
                                         <h4><i class="fa fa-quote-left"></i>Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing elit onec molestie non sem vel condimentum. <i class="fa fa-quote-right"></i></h4>
                                         <div class="user-img pull-right">
-                                            <img src="dashboard-assets/img/user.gif" alt="" class="img-u image-responsive" />
+                                            <img src="{{asset('dashboard-assets/img/user.gif')}}" alt="" class="img-u image-responsive" />
                                         </div>
                                         <h5 class="pull-right"><strong class="c-black">Lorem Dolor</strong></h5>
                                     </div>
@@ -64,7 +64,7 @@
 
                                         <h4><i class="fa fa-quote-left"></i>Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing elit onec molestie non sem vel condimentum. <i class="fa fa-quote-right"></i></h4>
                                         <div class="user-img pull-right">
-                                            <img src="dashboard-assets/img/user.png" alt="" class="img-u image-responsive" />
+                                            <img src="{{asset('dashboard-assets/img/user.png')}}" alt="" class="img-u image-responsive" />
                                         </div>
                                         <h5 class="pull-right"><strong class="c-black">Lorem Dolor</strong></h5>
                                     </div>
@@ -75,7 +75,7 @@
 
                                         <h4><i class="fa fa-quote-left"></i>Lorem ipsum dolor sit amet, consectetur adipiscing  Lorem ipsum dolor sit amet, consectetur adipiscing elit onec molestie non sem vel condimentum. <i class="fa fa-quote-right"></i></h4>
                                         <div class="user-img pull-right">
-                                            <img src="dashboard-assets/img/user.gif" alt="" class="img-u image-responsive" />
+                                            <img src="{{asset('dashboard-assets/img/user.gif')}}" alt="" class="img-u image-responsive" />
                                         </div>
                                         <h5 class="pull-right"><strong class="c-black">Lorem Dolor</strong></h5>
                                     </div>
@@ -104,15 +104,15 @@
                         <div class="carousel-inner">
                             <div class="item active">
 
-                                <img src="dashboard-assets/img/slideshow/1.jpg" alt="" />
+                                <img src="{{asset('dashboard-assets/img/slideshow/1.jpg')}}" alt="" />
 
                             </div>
                             <div class="item">
-                                <img src="dashboard-assets/img/slideshow/2.jpg" alt="" />
+                                <img src="{{asset('dashboard-assets/img/slideshow/2.jpg')}}" alt="" />
 
                             </div>
                             <div class="item">
-                                <img src="dashboard-assets/img/slideshow/3.jpg" alt="" />
+                                <img src="{{asset('dashboard-assets/img/slideshow/3.jpg')}}" alt="" />
 
                             </div>
                         </div>
@@ -369,7 +369,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
                                     <div class="media">
                                         <a class="pull-left" href="#">
-                                            <img class="media-object img-circle img-comments" src="dashboard-assets/img/user.png" />
+                                            <img class="media-object img-circle img-comments" src="{{asset('dashboard-assets/img/user.png')}}" />
                                         </a>
                                         <div class="media-body">
                                             <h4 class="media-heading">Nulla gravida vitae  </h4>
@@ -378,7 +378,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       <!-- Nested media object -->
                                             <div class="media">
                                                 <a class="pull-left" href="#">
-                                                    <img class="media-object img-circle img-comments" src="dashboard-assets/img/user.gif" />
+                                                    <img class="media-object img-circle img-comments" src="{{asset('dashboard-assets/img/user.gif')}}" />
                                                 </a>
                                                 <div class="media-body">
                                                     <h4 class="media-heading">Amet ligula enim</h4>
@@ -387,7 +387,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                                             </div>
                                             <div class="media">
                                                 <a class="pull-left" href="#">
-                                                    <img class="media-object img-circle img-comments" src="dashboard-assets/img/user.png" />
+                                                    <img class="media-object img-circle img-comments" src="{{asset('dashboard-assets/img/user.png')}}" />
                                                 </a>
                                                 <div class="media-body">
                                                     <h4 class="media-heading">Donec t ligula enim</h4>

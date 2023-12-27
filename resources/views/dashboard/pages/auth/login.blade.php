@@ -6,9 +6,9 @@
     <title>Responsive Bootstrap Advance Admin Template</title>
 
     <!-- BOOTSTRAP STYLES-->
-    <link href="dashboard-assets/css/bootstrap.css" rel="stylesheet" />
+    <link href="{{asset('dashboard-assets/css/bootstrap.css')}}" rel="stylesheet" />
     <!-- FONTAWESOME STYLES-->
-    <link href="dashboard-assets/css/font-awesome.css" rel="stylesheet" />
+    <link href="{{asset('dashboard-assets/css/font-awesome.css')}}" rel="stylesheet" />
     <!-- GOOGLE FONTS-->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
 
@@ -17,7 +17,7 @@
     <div class="container">
         <div class="row text-center " style="padding-top:100px;">
             <div class="col-md-12">
-                <img src="dashboard-assets/img/logo-invoice.png" />
+                <img src="{{asset('dashboard-assets/img/logo-invoice.png')}}" />
             </div>
         </div>
          <div class="row ">

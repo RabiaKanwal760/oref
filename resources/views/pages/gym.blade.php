@@ -145,22 +145,22 @@ padding: 18.5px 50px;"><i
 <!-- Full-width images with number text -->
 <div class="mySlides">
 <div class="numbertext">1 / 6</div>
-  <img  src="assets/images/events/370-x-413-(4).jpg" class="big-img" style="width:100%">
+  <img  src="{{asset('assets/images/events/370-x-413-(4).jpg')}}" class="big-img" style="width:100%">
 </div>
 
 <div class="mySlides">
 <div class="numbertext">2 / 6</div>
-  <img  src="assets/images/events/370-x-413-(3).jpg" class="big-img" style="width:100%">
+  <img  src="{{asset('assets/images/events/370-x-413-(3).jpg')}}" class="big-img" style="width:100%">
 </div>
 
 <div class="mySlides">
 <div class="numbertext">3 / 6</div>
-  <img src="assets/images/events/370-x-413-(4).jpg" class="big-img" style="width:100%">
+  <img src="{{asset('assets/images/events/370-x-413-(4).jpg')}}" class="big-img" style="width:100%">
 </div>
 
 <div class="mySlides">
 <div class="numbertext">4 / 6</div>
-  <img  src="assets/images/events/370-x-413-(1).jpg" class="big-img" style="width:100%">
+  <img  src="{{asset('assets/images/events/370-x-413-(1).jpg')}}" class="big-img" style="width:100%">
 </div>
 
 <div class="mySlides">
@@ -170,7 +170,7 @@ padding: 18.5px 50px;"><i
 
 <div class="mySlides">
 <div class="numbertext">6 / 6</div>
-  <img  src="assets/images/events/370-x-413-(4).jpg" class="big-img" style="width:100%">
+  <img  src="{{asset('assets/images/events/370-x-413-(4).jpg')}}" class="big-img" style="width:100%">
 </div>
 
 <!-- Next and previous buttons -->
@@ -186,22 +186,22 @@ padding: 18.5px 50px;"><i
 
 <div class="row w-100 justify-content-center mt-3" style="gap:0px">
 <div class="column p-0">
-  <img class="demo cursor"  src="assets/images/events/370-x-413-(4).jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+  <img class="demo cursor"  src="{{asset('assets/images/events/370-x-413-(4).jpg')}}" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
 </div>
 <div class="column p-0">
-  <img class="demo cursor"  src="assets/images/events/370-x-413-(3).jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+  <img class="demo cursor"  src="{{asset('assets/images/events/370-x-413-(3).jpg')}}" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
 </div>
 <div class="column p-0">
-  <img class="demo cursor"  src="assets/images/events/370-x-413-(4).jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+  <img class="demo cursor"  src="{{asset('assets/images/events/370-x-413-(4).jpg')}}" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
 </div>
 <div class="column p-0">
-  <img class="demo cursor" src="assets/images/events/370-x-413-(1).jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+  <img class="demo cursor" src="{{asset('assets/images/events/370-x-413-(1).jpg')}}" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
 </div>
 <div class="column p-0">
-  <img class="demo cursor"  src="assets/images/events/370-x-413-(7).jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
+  <img class="demo cursor"  src="{{asset('assets/images/events/370-x-413-(7).jpg')}}" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
 </div>
 <div class="column p-0">
-  <img class="demo cursor"  src="assets/images/events/370-x-413-(4).jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
+  <img class="demo cursor"  src="{{asset('assets/images/events/370-x-413-(4).jpg')}}" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
 </div>
 </div>
 </div>
